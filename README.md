@@ -45,9 +45,9 @@ Contribution
 
 Les contributions sont les bienvenues ! 
 
-**Auteur:**
+**Auteurs:**
 
-SIDI NDAO, Etudiant en master Systmées d'information
+SIDI NDAO, Modou Ngom, Nino Armand Tine Etudiants en master Systmées d'information
 
 
 
