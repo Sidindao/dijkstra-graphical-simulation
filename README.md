@@ -18,8 +18,7 @@ Ce projet est utile pour comprendre visuellement le fonctionnement de l'algorith
 Instructions d'installation :
 Pour exécuter ce programme, assurez-vous d'avoir les bibliothèques Tkinter, Matplotlib et NetworkX installées. Vous pouvez les installer en utilisant pip :
 
-```
-```
+
 
 **English:**
 
@@ -39,8 +38,7 @@ This project is useful for visually understanding how Dijkstra's algorithm works
 Installation Instructions:
 To run this program, make sure you have the Tkinter, Matplotlib, and NetworkX libraries installed. You can install them using pip:
 
-```
-```
+
 Contribution
 
 Les contributions sont les bienvenues ! 
